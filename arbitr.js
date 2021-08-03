@@ -72,9 +72,9 @@ const startAmount = 0.1
 const maxAmount = 0.9
 
 // Trade Addresses
-const account = '0xf9818a51DABD22a4835b4684f47E38d516c13f4F'
+const account = '0x'
 const wethAddress = '0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2'
-const batcherAddress = '0xd2A7D8451D8A5168B571E1CfDCe1e531fD7EaCf3'
+const batcherAddress = '0x'
 const batcherContract = new web3.eth.Contract(_batcherABI.abi, batcherAddress)
 
 // UNISWAP Addresses
